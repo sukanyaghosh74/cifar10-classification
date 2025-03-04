@@ -1,0 +1,9 @@
+Epoch 1/50
+ - loss: 1.9824 - accuracy: 0.4221 - val_loss: 1.7592 - val_accuracy: 0.4512
+Epoch 2/50
+ - loss: 1.5123 - accuracy: 0.5532 - val_loss: 1.4390 - val_accuracy: 0.5813
+Epoch 3/50
+ - loss: 1.2332 - accuracy: 0.6124 - val_loss: 1.2871 - val_accuracy: 0.6215
+...
+Training stopped early due to early stopping.
+Final Test Accuracy: 82.4%
