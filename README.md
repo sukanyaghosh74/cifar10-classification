@@ -21,20 +21,20 @@ This project trains a **Convolutional Neural Network (CNN)** to classify images 
 ## ⚙️ Project Structure
 ```
 CIFAR-10-Classification/
-│── main.py                 # (Optional) Entry point to run experiments
+│── main.py                 # Entry point to run experiments
 │── model.py                # CNN Model Definition
 │── train.py                # Training and Validation
 │── evaluate.py             # Model Performance Evaluation
 │── requirements.txt        # Required Libraries
 │── README.md               # Project Documentation
-│── datasets/               # (Optional) Local dataset storage
-│── saved_models/           # (Optional) Checkpoints & trained models
+│── datasets/               # Local dataset storage
+│── saved_models/           # Checkpoints & trained models
 ```
 
 ## 📦 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/cifar10-classification.git
+git clone https://github.com/sukanyaghosh74/cifar10-classification.git
 cd cifar10-classification
 ```
 
